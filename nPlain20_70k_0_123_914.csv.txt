@@ -1,0 +1,7 @@
+CDLcompareENSam
+11    5372
+22     268
+21     255
+12      52
+31       3
+Name: count, dtype: int64
